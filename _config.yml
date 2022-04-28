@@ -26,6 +26,7 @@ baseurl: "/FormSustainable/" # the subpath of your site, e.g. /blog
 url: "https://xam1311.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xam1311
 github_username:  xam1311
+show_downloads: false
 
 # Build settings
 remote_theme: pages-themes/architect@v0.2.0
